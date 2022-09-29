@@ -16,7 +16,7 @@
     "@vitebook/markdown-svelte": "0.100.5",
     "@vitebook/theme-default": "0.100.5",
     "@iconify/svelte": "^2.2.1",
-    "@iconify/types": "^1.1.0",
+    "@iconify/types": "^2.0.0",
     "tutors-ui": "*",
     "autoprefixer": "^10.4.12",
     "postcss": "^8.4.5",
